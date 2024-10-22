@@ -68,4 +68,4 @@ For your manual test suite, you'll want to break down each feature into specific
 - Test the behavior if no players are in the roster initially.
 
 This framework will help guide testing during development. we can easily convert these into a spreadsheet with columns for feature, test case, steps, expected results, and actual results.
-[Click here for spreadsheet]()
+[Click here for spreadsheet](https://docs.google.com/spreadsheets/d/14xVfQuhxDuLP2c1ZTJdR1ftVXekAxcprt2hBMO0IrVs/edit?usp=sharing)
