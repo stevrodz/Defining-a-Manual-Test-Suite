@@ -1,5 +1,6 @@
 # Defining-a-Manual-Test-Suite
 Block 18 Workshop Pt II: Defining a Manual Test Suite: Puppy Bowl
+
 Here's an outline of a test plan for the "Puppy Bowl" feature requirements:
 
 ### Main Page:
